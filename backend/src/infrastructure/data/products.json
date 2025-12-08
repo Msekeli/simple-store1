@@ -1,0 +1,83 @@
+[
+    {
+      "id": "p1",
+      "title": "Minimal White T-Shirt",
+      "description": "Soft 100% cotton tee for everyday comfort.",
+      "price": 12.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "inventory": 24
+    },
+    {
+      "id": "p2",
+      "title": "Black Hoodie",
+      "description": "Heavyweight fleece hoodie with modern fit.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "inventory": 14
+    },
+    {
+      "id": "p3",
+      "title": "Classic Blue Jeans",
+      "description": "Durable denim with a timeless straight-cut style.",
+      "price": 49.50,
+      "image": "https://images.unsplash.com/photo-1514996937319-344454492b37",
+      "inventory": 18
+    },
+    {
+      "id": "p4",
+      "title": "Sport Running Shoes",
+      "description": "Lightweight runners designed for daily training.",
+      "price": 79.00,
+      "image": "https://images.unsplash.com/photo-1528701800489-20beebebb302",
+      "inventory": 10
+    },
+    {
+      "id": "p5",
+      "title": "Leather Wallet",
+      "description": "Hand-stitched wallet made from genuine leather.",
+      "price": 29.90,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "inventory": 30
+    },
+    {
+      "id": "p6",
+      "title": "Smartwatch Series Lite",
+      "description": "Track health, messages, and workouts effortlessly.",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1519741491149-71f2d06c71a3",
+      "inventory": 7
+    },
+    {
+      "id": "p7",
+      "title": "Bluetooth Headphones",
+      "description": "Wireless over-ear headphones with noise reduction.",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1518444021532-76bc4e7be3c1",
+      "inventory": 20
+    },
+    {
+      "id": "p8",
+      "title": "Office Chair – Ergonomic",
+      "description": "Mesh back support with adjustable height.",
+      "price": 149.00,
+      "image": "https://images.unsplash.com/photo-1589571894960-20bbe2828d0a",
+      "inventory": 6
+    },
+    {
+      "id": "p9",
+      "title": "Ceramic Coffee Mug",
+      "description": "Hand-crafted ceramic mug, dishwasher safe.",
+      "price": 9.99,
+      "image": "https://images.unsplash.com/photo-1503602642458-232111445657",
+      "inventory": 40
+    },
+    {
+      "id": "p10",
+      "title": "Canvas Backpack",
+      "description": "Durable everyday carry backpack with laptop sleeve.",
+      "price": 54.90,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+      "inventory": 11
+    }
+  ]
+  
