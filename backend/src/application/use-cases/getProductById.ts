@@ -9,7 +9,6 @@ export const makeGetProductById = (productRepo: ProductRepositoryPort) => {
     const product = await productRepo.getById(id);
     if (!product) {
       const err = new Error("Product not found");
-      // annotate for controller
       (err as any).status = 404;
       throw err;
     }

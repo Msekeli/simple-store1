@@ -8,12 +8,10 @@ type ProductRepository = {
   getById: (id: string) => Promise<Product | null>;
 };
 
-// Resolve filesystem-safe path (ESM compatible)
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const PRODUCTS_PATH = path.join(__dirname, "../data/products.json");
 
-// ⭐ FIXED: never null — always an array
 let cachedProducts: Product[] = [];
 let isLoaded = false;
 

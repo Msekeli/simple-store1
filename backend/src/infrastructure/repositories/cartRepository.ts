@@ -8,7 +8,7 @@ type CartRepository = {
 };
 
 export const createCartRepository = (): CartRepository => {
-  // ⭐ In-memory cart using a Map (safe for ESM)
+
   const cart = new Map<string, number>();
 
   return {
