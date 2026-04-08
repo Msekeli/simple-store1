@@ -1,83 +1,82 @@
 [
-    {
-      "id": "p1",
-      "title": "Minimal White T-Shirt",
-      "description": "Soft 100% cotton tee for everyday comfort.",
-      "price": 12.99,
-      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
-      "inventory": 24
-    },
-    {
-      "id": "p2",
-      "title": "Black Hoodie",
-      "description": "Heavyweight fleece hoodie with modern fit.",
-      "price": 39.99,
-      "image": "https://www.freepik.com/free-photos-vectors/black-hoodie-template",
-      "inventory": 14
-    },
-    {
-      "id": "p3",
-      "title": "Classic Blue Jeans",
-      "description": "Durable denim with a timeless straight-cut style.",
-      "price": 49.50,
-      "image": "https://images.unsplash.com/photo-1514996937319-344454492b37",
-      "inventory": 18
-    },
-    {
-      "id": "p4",
-      "title": "Sport Running Shoes",
-      "description": "Lightweight runners designed for daily training.",
-      "price": 79.00,
-      "image": "https://www.freepik.com/free-photo/sport-shoes-running_1123469.htm#fromView=search&page=2&position=38&uuid=1cbe7661-350a-45df-95ec-bf074c4be083&query=sneeker",
-      "inventory": 10
-    },
-    {
-      "id": "p5",
-      "title": "Leather Wallet",
-      "description": "Hand-stitched wallet made from genuine leather.",
-      "price": 29.90,
-      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
-      "inventory": 30
-    },
-    {
-      "id": "p6",
-      "title": "Smartwatch Series Lite",
-      "description": "Track health, messages, and workouts effortlessly.",
-      "price": 129.99,
-      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
-      "inventory": 7
-    },
-    {
-      "id": "p7",
-      "title": "Bluetooth Headphones",
-      "description": "Wireless over-ear headphones with noise reduction.",
-      "price": 59.99,
-      "image": "https://images.unsplash.com/photo-1518444021532-76bc4e7be3c1",
-      "inventory": 20
-    },
-    {
-      "id": "p8",
-      "title": "Office Chair – Ergonomic",
-      "description": "Mesh back support with adjustable height.",
-      "price": 149.00,
-      "image": "https://images.unsplash.com/photo-1589571894960-20bbe2828d0a",
-      "inventory": 6
-    },
-    {
-      "id": "p9",
-      "title": "Ceramic Coffee Mug",
-      "description": "Hand-crafted ceramic mug, dishwasher safe.",
-      "price": 9.99,
-      "image": "https://images.unsplash.com/photo-1503602642458-232111445657",
-      "inventory": 40
-    },
-    {
-      "id": "p10",
-      "title": "Canvas Backpack",
-      "description": "Durable everyday carry backpack with laptop sleeve.",
-      "price": 54.90,
-      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
-      "inventory": 11
-    }
-  ]
-  
+  {
+    "id": "p1",
+    "title": "Smartphone",
+    "description": "Modern smartphone with sleek design.",
+    "price": 999.99,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "inventory": 12
+  },
+  {
+    "id": "p2",
+    "title": "Laptop",
+    "description": "High performance laptop for work and play.",
+    "price": 1199.0,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "inventory": 8
+  },
+  {
+    "id": "p3",
+    "title": "Headphones",
+    "description": "Wireless headphones with deep bass.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop",
+    "inventory": 10
+  },
+  {
+    "id": "p4",
+    "title": "Smartwatch",
+    "description": "Track fitness and notifications.",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=800",
+    "inventory": 9
+  },
+  {
+    "id": "p5",
+    "title": "Tablet",
+    "description": "Lightweight tablet for everyday use.",
+    "price": 499.99,
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+    "inventory": 11
+  },
+  {
+    "id": "p6",
+    "title": "Keyboard",
+    "description": "Mechanical keyboard for fast typing.",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "inventory": 18
+  },
+  {
+    "id": "p7",
+    "title": "Mouse",
+    "description": "Ergonomic wireless mouse.",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800",
+    "inventory": 20
+  },
+  {
+    "id": "p8",
+    "title": "Monitor",
+    "description": "4K display for productivity.",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800",
+    "inventory": 7
+  },
+  {
+    "id": "p9",
+    "title": "Speaker",
+    "description": "Portable Bluetooth speaker.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+    "inventory": 14
+  },
+  {
+    "id": "p10",
+    "title": "Camera",
+    "description": "High-quality digital camera.",
+    "price": 799.99,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&auto=format&fit=crop",
+    "inventory": 6
+  }
+]
